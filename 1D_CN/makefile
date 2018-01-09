@@ -25,5 +25,4 @@ f_pc.o: f_pc.cpp header.h
 f_pw.o: f_pw.cpp header.h
 	g++ -Wall -c f_pw.cpp
 
-clean:
-	rm 1d.o f.o
+
