@@ -24,4 +24,4 @@ For the two dimensional leap frog, <br />
 The potentials can be adjusted in the function files such as "f.cpp". In these cpp files, there is always a function called potential which defines the potential used in that particular model.
 
 ### Plotting the result
-Each folder contains a commented ipython notebook which guides the user on how to plot and save the corresponding figures. 
+Each folder contains a commented ipython notebook which guides the user on how to plot and save the corresponding figures. Note that these ipython notebook can be exported as python scripts.
