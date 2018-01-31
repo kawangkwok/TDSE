@@ -7,10 +7,10 @@ Each folder contains a makefile, therefore typing make into the terminal would g
 
 ### The list of options
 For one dimensional leap frog,<br />
-"1d_leap" is the default<br />
-"1d_ltun" potential barrier with similar energy to the wave<br />
-"1d_lpw" potential wall<br />
-"1d_lpc" potential cliff<br />
+``1d_leap`` is the default<br />
+``1d_ltun`` potential barrier with similar energy to the wave<br />
+``1d_lpw`` potential wall<br />
+``1d_lpc`` potential cliff<br />
 
 The commands are similar for the one dimensional CN e.g. "1d_pw" for the CN potential wall.
 
